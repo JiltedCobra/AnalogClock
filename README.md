@@ -1,4 +1,5 @@
-![Analog-clock](https://user-images.githubusercontent.com/99410623/163171768-b63080bd-8d07-469d-91bf-2f71f7f45032.png)
+![Analog](https://user-images.githubusercontent.com/99410623/163174096-a677d041-60a4-4011-85b5-8f0bec569611.png)
+
 # AnalogClock
 This is a Analog clock
 
